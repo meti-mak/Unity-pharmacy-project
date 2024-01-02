@@ -1,0 +1,17 @@
+      <div class="form-control">
+<article class="contact-form">
+      <h3>contact us</h3>
+      <form action="" class="contact">
+       <div class="form-group">
+        <!-- inputs-->
+        
+        <input  type="text" placeholder="fullname" name="fullname">
+        <input type="email" placeholder="abc@gmail.com" name="email">
+        <textarea name="message" id="message"  rows="5" placeholder="message "></textarea>
+       </div>
+       <button type="submit" class="submit-btn btn">submit here</button>
+
+      </form>
+      <a href="employee.html" class="employee">Do you want to contact employee ??</a> 
+     </article>
+      </div>
